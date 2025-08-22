@@ -2,8 +2,6 @@
 
 A clean, reproducible **Exploratory Data Analysis (EDA)** of the **Netflix catalog (2020–2022)** using **Python, Pandas, Matplotlib, and Seaborn**.  
 This repository highlights **content trends**, **Movies highest popularity**, **Movies lowest popularity**, **genre/category popularity**, and **release year patterns**.
-
-> Keywords: *Netflix EDA, Netflix dataset analysis, streaming analytics, Python data analysis, Pandas, Seaborn, Matplotlib, 2020–2022*
   
 ---
 
