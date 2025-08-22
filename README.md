@@ -23,12 +23,11 @@ This repository highlights **content trends**, **Movies highest popularity**, **
 
 ## 🗂️ Repository Structure
 ```
-Netflix-EDA-2020-2022/
-├─ assets/
-│  └─ images/                
+Netflix-EDA-2020-2022/               
 ├─ Netflix_movie_data_analysis.ipynb
 ├─ requirements.txt
 ├─ .gitignore
+├─ LICENSE
 └─ README.md
 ```
 
