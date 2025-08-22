@@ -57,8 +57,8 @@ jupyter notebook
 Open `Netflix_movie_data_analysis.ipynb` and run the cells.
 
 ## 📸 Sample Visuals
-![Release Date Column Distribution](assets/images/Release Date Column Distribution.png)
-![Genre column distribution](assets/images/Genre column distribution.png)
+<img width="530" height="413" alt="Release Date Column Distribution" src="https://github.com/user-attachments/assets/06e75975-0916-412a-8d52-a8e9012944ac" />
+<img width="558" height="465" alt="Genre column distribution" src="https://github.com/user-attachments/assets/daab4535-ffb1-48c4-927e-15d66fd0c700" />
 
 ---
 
